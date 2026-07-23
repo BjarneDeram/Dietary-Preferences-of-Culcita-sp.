@@ -1,0 +1,40 @@
+# The first ecological assessment of Culcita sp. in the Gulf of Thailand reveals shifts in dietary selectivity under elevated Acanthaster sp. densities. 
+
+Repository accompanying publication:
+
+The first ecological assessment of Culcita sp. in the Gulf of Thailand reveals shifts in dietary selectivity under elevated Acanthaster sp. densities. 
+
+## Authors
+
+Bjarne Deram
+Scarlett R. Taylor
+Stephanie Topal
+Jessica Miles
+Piers Baillie
+Gavin Miller
+
+## Contents
+
+- Raw datasets
+- R scripts including:
+      - Statistical analyses
+      - Figure generation
+
+## Reproducing the analyses
+
+All scripts can be run independently and do not impact each others analysis. 
+
+## Software
+
+R version 4.4.2
+
+Packages needed are written out in each script. 
+
+
+## License
+
+MIT License
+
+## Citation
+
+See CITATION.cff or Zenodo DOI.
