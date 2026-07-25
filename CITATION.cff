@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "The First Ecological Assessment of Culcita sp. in the Gulf of Thailand Reveals Shifts in Dietary Selectivity Under Elevated Acanthaster sp. Densities"
+
+type: software
+
+authors:
+  - family-names: Deram
+    given-names: Bjarne
+    orcid: "https://orcid.org/YOUR-ORCID"
+
+  - family-names: Taylor
+    given-names: Scarlett R.
+
+  - family-names: Topal
+    given-names: Stephanie
+
+  - family-names: Miles
+    given-names: Jessica
+
+  - family-names: Baillie
+    given-names: Piers
+
+  - family-names: Miller
+    given-names: Gavin
+
+version: "1.0.0"
+
+date-released: 2026-07-25
+
+license: MIT
+
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
