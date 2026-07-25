@@ -1,0 +1,119 @@
+# Data Dictionary
+
+This document describes the datasets contained in the `data/` directory of this repository.
+
+## Overview
+
+The datasets were collected between February and May 2026 around Koh Tao, Gulf of Thailand, as part of a study investigating the dietary preferences and habitat distribution of Culcita sp. and the effects of elevated Acanthaster sp. densities on dietary selectivity.
+
+---
+
+# CPUE.xlsx
+
+## Description
+
+Contains sightings-per-unit-effort (SPUE) data for Culcita sp. surveys conducted around Koh Tao.
+
+## Purpose
+
+Used to quantify relative abundance between study sites.
+
+## Data type
+
+Raw dataset.
+
+---
+
+# Culcita PITs Data.xlsx
+
+## Description
+
+Contains benthic point-intercept transect (PIT) data used to estimate coral size availability.
+
+## Purpose
+
+Used to calculate coral colony size availability for dietary selectivity analyses.
+
+## Data type
+
+Raw dataset.
+
+---
+
+# Culcita Scars Data.xlsx
+
+## Description
+
+Contains observations of feeding scars associated with individual Culcita sp.
+
+Each line represents observed feeding on a specific coral colony growth form, family and size class. The count collumn indicates the amount of feeding observations on the same combination seen during the survey. 
+
+## Purpose
+
+Used to quantify prey use and calculate dietary selectivity.
+
+## Data type
+
+Raw dataset.
+
+---
+
+# Culcita Habitat Preferences.xlsx
+
+## Description
+
+Contains habitat measurements recorded for individual Culcita sp.
+
+Variables include habitat characteristics such as depth and live coral cover, as well as the precense of scars around the individual.
+
+## Purpose
+
+Used for habitat preference analyses.
+
+## Data type
+
+Raw dataset.
+
+---
+
+# NewData.csv
+
+## Description
+
+Processed ReefCloud annotation dataset.
+
+Contains AI-assisted benthic point-count classifications and manually corrected annotations used to estimate coral availability.
+
+## Purpose
+
+Used to estimate coral family and morphological availability from photo quadrats.
+
+## Data type
+
+Processed dataset.
+
+---
+
+## Missing values
+
+Blank cells indicate that no observation was recorded or that the variable was not applicable.
+
+---
+
+## Coordinate system
+
+Study sites are located around Koh Tao, Gulf of Thailand.
+
+Precise sampling locations have been omitted where appropriate.
+
+---
+
+## Contact
+
+For questions regarding these datasets please contact:
+
+**Bjarne Deram**
+
+GitHub: BjarneDeram
+
+Email: deram.bjarne@gmail.com
